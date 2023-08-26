@@ -49,6 +49,12 @@ This is a Python script that demonstrates an image viewer application using the 
 
 6. You can exit the application by clicking the "X" button in the top-right corner of the window or pressing the "Exit" button.
 
+## Glimps
+
+![1](https://github.com/its-nihal-patel/LoadImage/assets/119946323/93f7bb76-a02a-4c3a-bf97-dab72001e8a8)
+![2](https://github.com/its-nihal-patel/LoadImage/assets/119946323/45adc187-efef-4b69-8ba6-803c4d35b29b)
+
+
 ## Notes
 
 - The PySimpleGUI library provides a simple way to create graphical user interfaces (GUIs) using Python.
